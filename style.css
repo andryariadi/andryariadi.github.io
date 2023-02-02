@@ -1,0 +1,45 @@
+nav {
+    background-color: limegreen;
+}
+
+.slider h3,
+.slider h5,
+.clients {
+    text-shadow: 2px 2px 3px rgba(0,0,0,.5);
+}
+
+.parallax-container {
+    height: 20%;
+}
+
+.row img {
+    /* border-radius: 50%; */
+    max-width: 200px;
+    /* filter: drop-shadow(2px 2px 2px rgba(0,0,0,.5)); */
+}
+
+.row .rog {
+    border-radius: 50%;
+    max-width: 130px;
+    /* max-height: 200px; */
+    margin-top: 50px;
+}
+
+.row .go {
+    margin-top: 50px;
+    /* padding: 5px; */
+}
+
+.row .apel {
+    max-width: 600px;
+    /* max-height: 600px; */
+}
+
+section {
+    padding: 20px 100px;
+}
+
+footer {
+    padding: 10px 500px;
+    line-height: 1px;
+}
